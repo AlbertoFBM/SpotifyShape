@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpotifyShape</string>
+    <string name="lesgo">Benvingut a Spotify</string>
+    <string name="description">Spotify és un programari propietari suec de flux de dades de música. Gràcies a un model d \'igual a igual permet escoltar de forma instantània sense temps de descàrrega.</string>
+    <string name="button">Més info</string>
+</resources>
